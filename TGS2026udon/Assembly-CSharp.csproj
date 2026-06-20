@@ -49,8 +49,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Script/FootMovement.cs" />
+    <Compile Include="Assets/Script/Udon4DirectionGame.cs" />
     <Compile Include="Assets/Script/ImageSwitcher.cs" />
     <Compile Include="Assets/Script/CircleShaper.cs" />
+    <Compile Include="Assets/Script/M5Receiver.cs" />
     <Compile Include="Assets/Script/UdonController.cs" />
   </ItemGroup>
   <ItemGroup>
